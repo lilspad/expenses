@@ -1,0 +1,8 @@
+HELP.md
+
+#gradle
+.gradle/
+build/
+
+# env
+.env
