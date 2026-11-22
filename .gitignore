@@ -6,6 +6,7 @@ build/
 
 # H2 db
 *.mv.db
+*.lock.db
 
 # env
 .env
