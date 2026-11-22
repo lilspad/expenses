@@ -4,5 +4,11 @@ HELP.md
 .gradle/
 build/
 
+# H2 db
+*.mv.db
+
 # env
 .env
+
+# vscode
+.vscode
