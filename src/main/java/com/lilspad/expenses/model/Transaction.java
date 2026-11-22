@@ -34,6 +34,10 @@ public class Transaction {
     );
   }
 
+  public Long getId() {
+    return id;
+  }
+
   public LocalDate getDate() {
     return date;
   }
